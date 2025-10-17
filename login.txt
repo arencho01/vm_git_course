@@ -1,1 +1,2 @@
 Логин: admin
+Форма логина: username, password
